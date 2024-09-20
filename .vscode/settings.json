@@ -1,0 +1,7 @@
+{
+  "editor.defaultFormatter": null,
+  "editor.formatOnSave": false,
+  "[clojure]": {
+    "editor.defaultFormatter": "pedrorgirardi.vscode-cljfmt"
+  }
+}

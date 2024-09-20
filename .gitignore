@@ -1,0 +1,4 @@
+.clj-kondo/*
+.calva/*
+.cpcache/*
+.lsp/*
